@@ -32,8 +32,11 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
+}
 
+.titulo_cv_barra {
+  font-weight: bold;
 }
